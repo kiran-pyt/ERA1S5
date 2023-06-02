@@ -9,7 +9,7 @@ The follwing S5.ipynb file divded into two files utils.py and model.py as shown 
 ![image](https://github.com/kiran-pyt/ERA1S5/assets/120393460/6aea6f6f-f563-4d98-aa27-bb798c44c332)
 
 
-The uitls.py file consist indculed follwing
+### The uitls.py file consist indculed follwing
 
 
 1)Train Transforms
