@@ -20,6 +20,14 @@ The uitls.py file consist indculed follwing
 
 4)Test dat Download
 
+![image](https://github.com/kiran-pyt/ERA1S5/assets/120393460/b7e7120d-4ffc-4cc7-8059-0d8e1131a02d)
+
+
+
+
+
+
+
 The models.py file consist indculed follwing
 
 1)Neural Network Model setup
