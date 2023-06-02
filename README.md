@@ -31,6 +31,9 @@ The models.py file consist indculed follwing
 4)Accuracy Plots
 
 
+![image](https://github.com/kiran-pyt/ERA1S5/assets/120393460/6f7c2d9d-338c-4176-b3ed-096bee745a3d)
+
+
 
 
 
