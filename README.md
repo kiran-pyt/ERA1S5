@@ -6,7 +6,7 @@ The follwing S5.ipynb file divded into two files utils.py and S5.ipynb as shown 
 
 
 
-![image](https://github.com/kiran-pyt/ERA1S5/assets/120393460/92ef86f4-33d2-4c2b-93a4-07c87e2fcc7f)
+    ![image](https://github.com/kiran-pyt/ERA1S5/assets/120393460/92ef86f4-33d2-4c2b-93a4-07c87e2fcc7f)
 
 
 
