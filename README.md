@@ -11,6 +11,17 @@ The follwing S5.ipynb file divded into two files utils.py and model.py as shown 
 
 The uitls.py file consist indculed follwing
 
+1)Train Transforms
+2)Test Transforms
+3)Test Data Download
+4)Test dat Download
+
+The models.py file consist indculed follwing
+1)Neural Network Model setyp
+2)Train Loop and Test Loop
+3)Data Plots
+4)Accuracy Plots
+
 
 
 
