@@ -28,7 +28,7 @@ The follwing S5.ipynb file divded into two files utils.py and model.py as shown 
 
 
 
-The models.py file consist indculed follwing
+### The models.py file consist indculed follwing
 
 1)Neural Network Model setup
 
